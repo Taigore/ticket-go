@@ -1,1 +1,2 @@
 go.work     text eol=lf
+.gitmodules text eol=lf

@@ -1,3 +1,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/Taigore/ticket-go--core.git
+[submodule "api"]
+	path = api
+	url = https://github.com/Taigore/ticket-go--api.git
