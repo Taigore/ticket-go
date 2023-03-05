@@ -1,0 +1,12 @@
+@ECHO OFF
+SETLOCAL
+
+SETLOCAL
+CD core
+go build .
+ENDLOCAL
+
+SETLOCAL
+CD api
+go build .
+ENDLOCAL
