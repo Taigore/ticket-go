@@ -2,4 +2,4 @@
 SETLOCAL
 
 CD api
-func start
+func start --custom

@@ -1,0 +1,6 @@
+POST http://localhost:7071/api/newTicket
+Content-Type: application/json
+
+{
+    
+}

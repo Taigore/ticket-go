@@ -1,2 +1,3 @@
 go.work     text eol=lf
+go.work.sum text eol=lf
 .gitmodules text eol=lf
